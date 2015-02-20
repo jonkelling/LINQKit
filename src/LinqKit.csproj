@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="LinqKit.nuspec" />
     <None Include="LinqKit.snk" />
     <None Include="packages.config" />
   </ItemGroup>
